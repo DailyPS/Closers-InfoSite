@@ -1,2 +1,2 @@
 # Closers-InfoSite
-Information integrated siter for users who plays game "Closers"
+Information integrated site for users who plays game "Closers"
